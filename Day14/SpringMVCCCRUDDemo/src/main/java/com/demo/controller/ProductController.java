@@ -29,7 +29,7 @@ public class ProductController {
 		if(u!=null) {
 		   System.out.println(u);
 		   List<Product> plist=pservice.getAllProducts();
-		   return new ModelAndView("displayproduct","plist",plist);
+		   return new ModelAndView("displayproduct","pl",plist);
 		}
 		return new ModelAndView("redirect:/login/");
 	}

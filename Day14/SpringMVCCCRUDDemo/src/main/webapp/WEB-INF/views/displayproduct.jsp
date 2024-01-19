@@ -17,7 +17,8 @@
      <th>price</th>
      <th>action</th>
   </tr>
-  <c:forEach var="p" items="${plist}">
+ 
+  <c:forEach var="p" items="${pl}">
      <tr>
        <td>${p.pid}</td>
        <td>${p.pname}</td>

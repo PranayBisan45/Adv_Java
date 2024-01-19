@@ -1,0 +1,12 @@
+com\demo\service\LoginServiceImpl.class
+com\demo\dao\LoginDaoImpl.class
+com\demo\model\Product.class
+com\demo\service\ProductService.class
+com\demo\service\ProductServiceImpl.class
+com\demo\controller\MyLoginController.class
+com\demo\controller\ProductController.class
+com\demo\dao\ProductDaoImpl.class
+com\demo\service\LoginService.class
+com\demo\dao\LoginDao.class
+com\demo\model\MyUser.class
+com\demo\dao\ProductDao.class
